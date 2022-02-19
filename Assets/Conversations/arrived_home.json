@@ -1,0 +1,11 @@
+{
+    "id" : "arrived_home",
+    "lines" : 
+[
+    {"type" : 0, "character" : 1, "text" : "Here we are!"},
+    {"type" : 0, "character" : 0, "text" : "Awesome, thanks Deb."},
+    {"type" : 0, "character" : 1, "text" : "Not a problem."},
+    {"type" : 0, "character" : 1, "text" : "I'm gonna head into town to pick up some groceries. I'll see you later"},
+    {"type" : 0, "character" : 0, "text" : "Ok see you later!"}
+]
+}

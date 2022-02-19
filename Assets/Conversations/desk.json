@@ -1,0 +1,9 @@
+{
+    "id" : "desk",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "My desk, lots of important papers on there."},
+    {"type" : 0, "character" : 0, "text" : "This is where I will do work when I am out of the office."},
+    {"type" : 0, "character" : 0, "text" : "I am an important business man."}
+]
+}

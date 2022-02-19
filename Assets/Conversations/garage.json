@@ -1,0 +1,7 @@
+{
+    "id" : "garage",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "This is the garage. When I get a car, I can park my car in it."}
+]
+}

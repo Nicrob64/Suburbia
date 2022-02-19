@@ -1,0 +1,8 @@
+{
+    "id" : "bush",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "What kind of berries are these."},
+    {"type" : 0, "character" : 0, "text" : "I hope they are edible, I will put them in a smoothie."}
+]
+}

@@ -1,0 +1,9 @@
+{
+    "id" : "fridge",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "Let's see what's in the fridge..."},
+    {"type" : 1, "length" : 2},
+    {"type" : 0, "character" : 0, "text" : "Wow its fucking empty!"}
+]
+}

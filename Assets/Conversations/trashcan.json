@@ -1,0 +1,8 @@
+{
+    "id" : "trashcan",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "This is a trashcan."},
+    {"type" : 0, "character" : 0, "text" : "I can put my rubbish in there so it isn't lying around on the floor."}
+]
+}

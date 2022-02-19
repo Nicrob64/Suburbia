@@ -1,0 +1,13 @@
+{
+    "id" : "toilet_time",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "Thank god, it's toilet time."},
+    {"type" : 0, "character" : 0, "text" : "I couldn't poop the whole trip."},
+    {"type" : 2, "character" : 0, "length" : 1.5},
+    {"type" : 0, "character" : 0, "text" : "Usually I pull my pants down first, but I just can't help myself today"},
+    {"type" : 2, "character" : 1 ,"length" : 22},
+    {"type" : 0, "character" : 0, "text" : "Ahh that's better"},
+    {"type" : 2, "character" : 2 ,"length" : 1.5}
+]
+}

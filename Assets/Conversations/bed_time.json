@@ -1,0 +1,11 @@
+{
+    "id" : "bed_time",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "Time for a nap"},
+    {"type" : 2, "character" : 0, "length" : 3},
+    {"type" : 2, "character" : 1 ,"length" : 3},
+    {"type" : 0, "character" : 0, "text" : "Ahh that was a good sleep, I am fully refreshed"},
+    {"type" : 0, "character" : 0, "text" : "I wont need to sleep again for a while"}
+]
+}

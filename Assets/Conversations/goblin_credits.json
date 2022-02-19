@@ -1,0 +1,18 @@
+{
+    "id" : "goblin_credits",
+    "lines" : 
+[
+    {"type" : 0, "character" : 3, "text" : "Hmm"},
+    {"type" : 0, "character" : 0, "text" : "Where are we?"},
+    {"type" : 0, "character" : 3, "text" : "I did a wrong warp to the credits scene."},
+    {"type" : 0, "character" : 3, "text" : "It'll be easier to escape from here."},
+    {"type" : 0, "character" : 0, "text" : "What about the gameplay?"},
+    {"type" : 0, "character" : 3, "text" : "Haha, you sure are a kidder John."},
+    {"type" : 0, "character" : 0, "text" : "..."},
+    {"type" : 0, "character" : 3, "text" : "Look! you were made by someone called fartguy underscore, how embarrassing!"},
+    {"type" : 0, "character" : 0, "text" : "Shut up Greg!"},
+    {"type" : 0, "character" : 3, "text" : "One sec, I will open a new warp."},
+    {"type" : 2, "character" : 0, "length" : 6},
+    {"type" : 0, "character" : 3, "text" : "Alright! Let's blow this joint."}
+]
+}

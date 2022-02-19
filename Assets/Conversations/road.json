@@ -1,0 +1,9 @@
+{
+    "id" : "road",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "Wow that road is magnificent."},
+    {"type" : 0, "character" : 0, "text" : "Truly great ashphalt, very smooth."},
+    {"type" : 0, "character" : 0, "text" : "A pleasure to drive on."}
+]
+}

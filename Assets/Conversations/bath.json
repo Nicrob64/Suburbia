@@ -1,0 +1,9 @@
+{
+    "id" : "bath",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "Wow a bathtub!"},
+    {"type" : 0, "character" : 0, "text" : "I love having a bath!"},
+    {"type" : 0, "character" : 0, "text" : "I could start filling it now and come back in like 20-30 minutes."}
+]
+}

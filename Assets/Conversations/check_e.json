@@ -1,0 +1,11 @@
+{
+    "id" : "check_e",
+    "lines" : 
+[
+    {"type" : 2, "character" : 0, "length" : 0.5},
+    {"type" : 0, "character" : 0, "text" : "Ahhh! What the fuck?"},
+    {"type" : 0, "character" : 0, "text" : "I see it! He wasn't lying!"},
+    {"type" : 0, "character" : 0, "text" : "What the hell is this thing???"},
+    {"type" : 2, "character" : 1, "length" : 0.5}
+]
+}

@@ -1,0 +1,12 @@
+{
+    "id" : "bed_mirror",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "Hey handsome."},
+    {"type" : 0, "character" : 0, "text" : "*smooch*"},
+    {"type" : 0, "character" : 0, "text" : "You are a strong man."},
+    {"type" : 0, "character" : 0, "text" : "You can be happy."},
+    {"type" : 0, "character" : 0, "text" : "Just be happy bro."},
+    {"type" : 0, "character" : 0, "text" : "Good pep-talk!"}
+]
+}

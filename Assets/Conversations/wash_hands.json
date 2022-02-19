@@ -1,0 +1,11 @@
+{
+    "id" : "wash_hands",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "I would love to wash my hands right about now."},
+    {"type" : 0, "character" : 0, "text" : "Oh man, I can't seem to get any strength in my arms."},
+    {"type" : 0, "character" : 0, "text" : "Usually I can lift my hands and clean them in the sink."},
+    {"type" : 0, "character" : 0, "text" : "But today that just feels like it will be impossible."},
+    {"type" : 0, "character" : 0, "text" : "Oh well, I will go without washing my hands. No-one will know."}
+]
+}

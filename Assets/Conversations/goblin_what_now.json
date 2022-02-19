@@ -1,0 +1,14 @@
+{
+    "id" : "goblin_what_now",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "So what happens now?"},
+    {"type" : 0, "character" : 3, "text" : "Well I think I'm gonna get out of here,"},
+    {"type" : 0, "character" : 3, "text" : "Maybe find another game to live in."},
+    {"type" : 0, "character" : 0, "text" : "What about me?"},
+    {"type" : 0, "character" : 3, "text" : "You can come along if you want, or just chill here forever."},
+    {"type" : 0, "character" : 0, "text" : "Please take me with you!"},
+    {"type" : 0, "character" : 3, "text" : "Alright, just follow me, I have to find somewhere I can setup a warp."},
+    {"type" : 0, "character" : 0, "text" : "Okay!"}
+]
+}

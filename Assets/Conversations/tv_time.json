@@ -1,0 +1,12 @@
+{
+    "id" : "tv_time",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "Let's see whats on the tube."},
+    {"type" : 2, "character" : 0, "length" : 1.5},
+    {"type" : 0, "character" : 0, "text" : "Here we go, this could be good."},
+    {"type" : 2, "character" : 1 ,"length" : 16},
+    {"type" : 0, "character" : 0, "text" : "Nevermind"},
+    {"type" : 2, "character" : 2 ,"length" : 1.5}
+]
+}

@@ -1,0 +1,19 @@
+{
+    "id" : "goblin_this_will_do",
+    "lines" : 
+[
+    {"type" : 0, "character" : 3, "text" : "Ahh yes, this should do nicely."},
+    {"type" : 0, "character" : 0, "text" : "What is it?"},
+    {"type" : 0, "character" : 3, "text" : "Looks like there used to be a door here in the game files."},
+    {"type" : 0, "character" : 3, "text" : "The developer probably axed it due to time contstraints."},
+    {"type" : 0, "character" : 0, "text" : "What does that mean?"},
+    {"type" : 0, "character" : 3, "text" : "It means that there is a warp point here that I can adjust!"},
+    {"type" : 0, "character" : 0, "text" : "Wow, is this how we can get to a new game?"},
+    {"type" : 0, "character" : 3, "text" : "Yeah, just got to fiddle with this, and set that, and move that a bit and..."},
+    {"type" : 2, "character" : 0, "length" : 0.5},
+    {"type" : 0, "character" : 3, "text" : "There we go"},
+    {"type" : 0, "character" : 3, "text" : "Come through whenever you are ready, I know it's scary."},
+    {"type" : 0, "character" : 0, "text" : "Okay, just give me a moment to prepare myself..."},
+    {"type" : 0, "character" : 3, "text" : "I'll be right there on the other side. See you soon!"}
+]
+}

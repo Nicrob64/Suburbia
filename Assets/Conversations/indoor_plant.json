@@ -1,0 +1,9 @@
+{
+    "id" : "indoor_plant",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "This is a plant indoors."},
+    {"type" : 0, "character" : 0, "text" : "I don't know how it got inside."},
+    {"type" : 0, "character" : 0, "text" : "I should let it out later."}
+]
+}

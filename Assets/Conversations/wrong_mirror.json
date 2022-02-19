@@ -1,0 +1,8 @@
+{
+    "id" : "wrong_mirror",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "This mirror isn't working."},
+    {"type" : 0, "character" : 0, "text" : "I don't know how it's possible for a mirror to malfunction."}
+]
+}

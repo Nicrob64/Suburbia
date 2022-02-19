@@ -1,0 +1,11 @@
+{
+    "id" : "bookcase",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "So many facsinating books."},
+    {"type" : 0, "character" : 0, "text" : "It took me a long time to collect all of these"},
+    {"type" : 0, "character" : 0, "text" : "Each one lovingly cared for and kept in pristine condition."},
+    {"type" : 1, "length" : 1.5},
+    {"type" : 0, "character" : 0, "text" : "I wish I could read."}
+]
+}

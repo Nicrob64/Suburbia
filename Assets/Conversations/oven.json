@@ -1,0 +1,12 @@
+{
+    "id" : "oven",
+    "lines" : 
+[
+    {"type" : 0, "character" : 0, "text" : "This rangehood is all up in my face."},
+    {"type" : 0, "character" : 0, "text" : "This is going to be a pain in the ass when I'm cooking."},
+    {"type" : 2, "character" : 0, "length" : 2},
+    {"type" : 0, "character" : 0, "text" : "Woah! "},
+    {"type" : 1, "length" : 0.5},
+    {"type" : 0, "character" : 0, "text" : "That was convenient."}
+]
+}
